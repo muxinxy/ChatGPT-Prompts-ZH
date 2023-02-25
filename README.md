@@ -6,6 +6,8 @@
 
 ![](https://github.com/muxinxy/ChatGPT-Prompts-ZH/raw/main/20230224235156.png)
 
+![](https://github.com/muxinxy/ChatGPT-Prompts-ZH/raw/main/20230225090956.png)
+
 ## 文件
 
 - md2csv.py: Python 脚本
